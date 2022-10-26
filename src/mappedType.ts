@@ -14,7 +14,6 @@ const check: ReadOnly<Point> = {
 
 
 // modifiers
-
 type Point1 = {
     readonly x: number
     y?: number
